@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WannesW
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning how to use Typescript with React
+- 💞️ I’m looking to collaborate on creating stunning webapps and learning new technologies
+- 📫 How to reach me: linkedin.com/in/wannes-wagemans/ or wanneswagemans@gmail.com
